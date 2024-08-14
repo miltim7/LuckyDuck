@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[449],{1383:function(e,n,r){"use strict";r.r(n);var t={middleware:function(e){return(0,e.redirect)("/games/crash/history/current")}},c=r(10),component=Object(c.a)(t,(function(){var e=this.$createElement;return(this._self._c||e)("div")}),[],!1,null,null,null);n.default=component.exports}}]);

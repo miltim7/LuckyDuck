@@ -1,0 +1,18 @@
+@media (max-width: 1200px) {
+    .img-logo {
+        height: 45px;
+        width: 45px;
+        margin-left: 45px;
+    }
+
+    .h1-logo {
+        position: relative;
+        color: transparent;
+    }
+}
+
+@media (max-width: 772px) {
+    body > h1 {
+        display: none;
+    }
+}
